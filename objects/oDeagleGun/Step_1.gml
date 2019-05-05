@@ -9,9 +9,9 @@ recoil = max(0, recoil - 1);
 if(mouse_check_button(mb_left)) && (firingdelay < 0){
 	recoil = realRecoil;
 	firingdelay = rateOfFire;
-	audio_play_sound(snSniperShot, 5, false);
-	with(instance_create_layer(x, y, "Bullets", oSniperBullet)){
-		speed = 40;
+	audio_play_sound(snDeagleShot, 5, false);
+	with(instance_create_layer(x, y, "Bullets", oBullet)){
+		speed = 25;
 		direction = other.image_angle + random_range(-other.spread, other.spread);
 		image_angle = direction;
 	}

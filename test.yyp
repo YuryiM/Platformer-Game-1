@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "2e429eb2-591d-42c4-b9c2-8307f41e71b8",
+            "Value": {
+                "id": "7c9995bd-09f5-46c0-9915-f199de742e5e",
+                "resourcePath": "objects\\oDeagleGunPickup\\oDeagleGunPickup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "31daddfb-26bf-40b0-92ac-456574d16350",
             "Value": {
                 "id": "c1704eb1-e2bf-4ebe-aee0-31e6f80c2ca3",
@@ -228,6 +236,14 @@
                 "id": "57874ee4-cfb3-410f-a1cc-aeb25641dd86",
                 "resourcePath": "fonts\\fMenu\\fMenu.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "3d4cae6e-b9d6-4640-9705-d5ab5734da81",
+            "Value": {
+                "id": "11c2e783-79eb-4b87-b10f-58a9588edbc8",
+                "resourcePath": "sounds\\snDeagleShot\\snDeagleShot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -388,6 +404,14 @@
                 "id": "00bfb418-d2ad-477d-9191-c7d40b6a07d1",
                 "resourcePath": "objects\\oSign\\oSign.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "78d4d1aa-ffd1-4164-aadd-40c5c21159d2",
+            "Value": {
+                "id": "2d39ef7e-6b47-4928-b9a8-6c983fd6ca20",
+                "resourcePath": "sprites\\sDeagleGunPickup\\sDeagleGunPickup.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -612,6 +636,22 @@
                 "id": "1994772f-5a2f-47be-8da9-7a89f06ec773",
                 "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0db1163-0d9b-4cfe-afc9-d95fae2d8b8b",
+            "Value": {
+                "id": "7ca10150-cf60-42e6-8b22-c6f862ff55b8",
+                "resourcePath": "sprites\\sDeagleGun\\sDeagleGun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2d5c2cf-f5d0-493c-9263-cbbc46d9f194",
+            "Value": {
+                "id": "6e4d6f67-e7f7-4ae5-827d-6f924c8c4c4c",
+                "resourcePath": "sounds\\snSniperShot\\snSniperShot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -884,6 +924,14 @@
                 "id": "814cd3ca-8032-48cd-841c-e0bfd6def8e6",
                 "resourcePath": "scripts\\WipeLayer\\WipeLayer.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f40f41ed-3c44-4863-b97e-9d2ee765f196",
+            "Value": {
+                "id": "6c23576c-c1ca-407a-a7be-24319968d547",
+                "resourcePath": "objects\\oDeagleGun\\oDeagleGun.yy",
+                "resourceType": "GMObject"
             }
         },
         {

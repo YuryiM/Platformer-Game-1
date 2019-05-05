@@ -1,8 +1,8 @@
 {
-    "id": "731bc077-1b20-4c29-a404-5e7ec9bdac73",
+    "id": "3d4cae6e-b9d6-4640-9705-d5ab5734da81",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snLazerShot",
+    "name": "snDeagleShot",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.27
+    "volume": 0.49
 }

@@ -1,8 +1,8 @@
 {
-    "id": "731bc077-1b20-4c29-a404-5e7ec9bdac73",
+    "id": "c2d5c2cf-f5d0-493c-9263-cbbc46d9f194",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snLazerShot",
+    "name": "snSniperShot",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.27
+    "volume": 0.41
 }

@@ -33,6 +33,8 @@
         "102e1c41-b45f-4d3f-82cf-0659f3c1e51b",
         "bcc2a688-ee28-41dc-ad13-f95ecc5bb408",
         "d117ec0e-d229-4a63-8eb7-dda8a5443cec",
+        "c0db1163-0d9b-4cfe-afc9-d95fae2d8b8b",
+        "78d4d1aa-ffd1-4164-aadd-40c5c21159d2",
         "0e930550-87d0-4913-a557-928739cb7645",
         "79031208-c341-4a3c-8119-2fc8b1658166",
         "9c050ef2-aa47-4f72-8d0a-15ddc5e59c3e"
