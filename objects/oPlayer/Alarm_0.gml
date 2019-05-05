@@ -1,0 +1,1 @@
+gunInstanceId.rateOfFire = gunInstanceId.rateOfFire*2;
