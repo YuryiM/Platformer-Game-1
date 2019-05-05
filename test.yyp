@@ -911,6 +911,14 @@
             }
         },
         {
+            "Key": "edfba3f2-61d9-411c-a71f-8dbc2ae56b6b",
+            "Value": {
+                "id": "50def54e-680a-4c46-b7aa-8d83d4c078ec",
+                "resourcePath": "sprites\\sMountain1\\sMountain1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ef623ee6-4118-4573-a6be-2591daf614ef",
             "Value": {
                 "id": "8b1cd002-4e6e-49de-afbc-53daeb9f3402",
