@@ -460,7 +460,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "5ee143dc-3831-476f-9af3-fc42b03c1dbd",
+            "spriteId": "9c050ef2-aa47-4f72-8d0a-15ddc5e59c3e",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
@@ -468,7 +468,7 @@
             "vspeed": 0,
             "vtiled": false,
             "x": 0,
-            "y": 410
+            "y": 270
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
@@ -476,7 +476,7 @@
             "id": "3e581e02-0554-4b4a-98db-f3ae20ceefc9",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4294954541 },
+            "colour": { "Value": 4294551391 },
             "depth": 800,
             "grid_x": 32,
             "grid_y": 32,
