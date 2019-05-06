@@ -3,7 +3,7 @@
 with(oPlayer){
 	if(has_control){
 		has_control = false;
-		SlideTransition(TRANS_MODE.GOTO, other.target);
+		SlideTransition(TRANS_MODE.GOTO, room1 d);
 	}
 
 }

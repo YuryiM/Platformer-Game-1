@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "06b611cf-0bdf-45d3-9efe-9a31f144e0d7",
+            "Value": {
+                "id": "5fe27fee-ddb0-4fff-b39c-e92111231027",
+                "resourcePath": "objects\\oTextTutorial\\oTextTutorial.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08555cf5-64a1-41a0-814c-5d631d198aac",
             "Value": {
                 "id": "edb15b90-a1af-493a-987b-fdc4c4fed1de",
