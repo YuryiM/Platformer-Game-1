@@ -23,6 +23,26 @@
             "enumb": 1,
             "eventtype": 3,
             "m_owner": "e25a433a-970c-46e7-b0f7-b49ee2854833"
+        },
+        {
+            "id": "7d0d91ad-ef77-44cd-b41d-b2634f92bf0d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e25a433a-970c-46e7-b0f7-b49ee2854833"
+        },
+        {
+            "id": "05b7b631-1525-4237-a237-a907f2e297c2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "ed236463-43a9-4535-9a18-24cf2208af07",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "e25a433a-970c-46e7-b0f7-b49ee2854833"
         }
     ],
     "maskSpriteId": "bdbe6d6d-d65e-42b3-ba11-1a78dd4d2180",
@@ -195,6 +215,20 @@
             "value": "1",
             "varName": "damageDealt",
             "varType": 0
+        },
+        {
+            "id": "721017cd-c113-477c-855b-92dd2b5a36c5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hasWeapon",
+            "varType": 3
         }
     ],
     "solid": false,
