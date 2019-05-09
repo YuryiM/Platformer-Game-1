@@ -431,14 +431,6 @@
             }
         },
         {
-            "Key": "5a4a8370-1f1c-442f-85c7-76e373f4ddc0",
-            "Value": {
-                "id": "491e24d2-4a63-4a1f-b642-944bfa541a05",
-                "resourcePath": "sprites\\sMountain\\sMountain.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5a5f5efa-9e8d-43c5-9049-8454f18339e0",
             "Value": {
                 "id": "1dbdd5a8-0f3a-4164-bcdb-f2501592e97a",
@@ -460,14 +452,6 @@
                 "id": "a3af8bf3-289b-4038-aedf-185d53808aaa",
                 "resourcePath": "rooms\\room7\\room7.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "5ee143dc-3831-476f-9af3-fc42b03c1dbd",
-            "Value": {
-                "id": "ab13f1fe-9823-47d1-b9dc-51792d7a2c3b",
-                "resourcePath": "sprites\\sTrees\\sTrees.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -724,14 +708,6 @@
                 "id": "b655c85b-0e3c-42d7-b88c-24aa9fe8d9a3",
                 "resourcePath": "rooms\\room2\\room2.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "9c050ef2-aa47-4f72-8d0a-15ddc5e59c3e",
-            "Value": {
-                "id": "0e7f760d-554d-4cf9-9f5a-0dcd91894fa9",
-                "resourcePath": "sprites\\sGlacialMountains\\sGlacialMountains.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
