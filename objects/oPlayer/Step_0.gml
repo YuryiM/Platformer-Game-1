@@ -19,7 +19,7 @@ vsp += grv;
 
 canjump -= 1;
 if(canjump > 0) && (key_jump){
-	vsp = -7;
+	vsp = -8;
 	canjump = 0;
 }
 
