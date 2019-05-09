@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oEnemyBig",
     "eventList": [
-        
+        {
+            "id": "7d52ebc0-8dcd-4f64-9ac8-c9b366a4f5d1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "c65a4d29-c1cd-4e51-b03e-76ee15b4884b"
+        }
     ],
     "maskSpriteId": "89136188-d500-4704-b153-46e6ef66e441",
     "overriddenProperties": [

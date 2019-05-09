@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "8635c392-868b-47b8-994d-ad49bb125549",
+            "Value": {
+                "id": "531f5c41-b2b0-419c-b48b-5f1696bc7215",
+                "resourcePath": "objects\\oEnemyCannonBall\\oEnemyCannonBall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8815fe56-5bc0-4b8e-8d71-14bb0598171f",
             "Value": {
                 "id": "e71f0261-f940-46ec-9859-901d97b76de8",
@@ -1172,6 +1180,14 @@
                 "id": "8b1cd002-4e6e-49de-afbc-53daeb9f3402",
                 "resourcePath": "sprites\\sWall\\sWall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0836fe2-b543-4f77-b03a-ebff0e06f816",
+            "Value": {
+                "id": "6f1f6472-9964-4362-aa6a-a220817ec342",
+                "resourcePath": "objects\\oEnemyBigGun\\oEnemyBigGun.yy",
+                "resourceType": "GMObject"
             }
         },
         {
