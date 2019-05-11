@@ -1,3 +1,3 @@
 /// @description Insert description here
-countdownrate = 40;
+countdownrate = 75;
 countdown = countdownrate;

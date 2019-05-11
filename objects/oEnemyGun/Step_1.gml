@@ -18,7 +18,7 @@ if(instance_exists(oPlayer)){
 				//Bullet code
 				audio_play_sound(snShoot, 5, false);
 				with(instance_create_layer(x, y, "Bullets", oEnemyBullet)){
-					spd = 10;
+					spd = 7;
 					direction = other.image_angle + random_range(-other.spread, other.spread);
 					image_angle = direction;
 				}
