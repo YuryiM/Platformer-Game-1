@@ -24,6 +24,22 @@
             "objectId": "28785d3f-e961-40dc-9a26-1df296257095",
             "propertyId": "e2b3fcbf-79aa-4029-8bc3-e84239d66cfb",
             "value": "\"oDeagleGunPickup\""
+        },
+        {
+            "id": "7d301a0f-692d-44e5-b1a1-7e9eaa32e0f5",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "28785d3f-e961-40dc-9a26-1df296257095",
+            "propertyId": "afe2f3cf-3b26-4fdb-96f2-afd4fdf1292f",
+            "value": "4"
+        },
+        {
+            "id": "6060b576-99d2-4c58-8d50-092605070a72",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "28785d3f-e961-40dc-9a26-1df296257095",
+            "propertyId": "3824938a-ac8c-4349-acf6-959400ab92c3",
+            "value": "8"
         }
     ],
     "parentObjectId": "28785d3f-e961-40dc-9a26-1df296257095",

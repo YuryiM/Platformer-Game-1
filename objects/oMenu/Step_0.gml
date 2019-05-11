@@ -24,7 +24,7 @@ if(menu_control){
 }
 if((menu_x > gui_width+150) && (menu_committed != -1)){
 	switch(menu_committed){
-		case 3: default: SlideTransition(TRANS_MODE.NEXT); break;
+		case 3: default: SlideTransition(TRANS_MODE.GOTO, room1); break;
 		case 2:
 		{
 			if(!file_exists(SAVEFILE)){

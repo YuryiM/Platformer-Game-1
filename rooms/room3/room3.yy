@@ -359,7 +359,8 @@
         "bcbd0249-edc3-41e8-9240-0bacfa6185d2",
         "e0fc57b6-2177-4223-915d-1372ebd862a7",
         "6eba8ace-93e8-40a8-9c3d-8baa4babb33b",
-        "fe5f8c9e-7579-40d1-9952-cee2ba1e7d16"
+        "fe5f8c9e-7579-40d1-9952-cee2ba1e7d16",
+        "48d85e32-9ec3-4748-a9ce-ca165c5f2306"
     ],
     "IsDnD": false,
     "layers": [
@@ -429,7 +430,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_3AF10B5E","id": "fe5f8c9e-7579-40d1-9952-cee2ba1e7d16","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3AF10B5E","objId": "f40f41ed-3c44-4863-b97e-9d2ee765f196","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 96}
+{"name": "inst_3AF10B5E","id": "fe5f8c9e-7579-40d1-9952-cee2ba1e7d16","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3AF10B5E","objId": "f40f41ed-3c44-4863-b97e-9d2ee765f196","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 96},
+{"name": "inst_4AEF2C96","id": "48d85e32-9ec3-4748-a9ce-ca165c5f2306","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4AEF2C96","objId": "a70d5398-49c0-4627-b74e-fec9c0824c8c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1708,"y": 541}
             ],
             "layers": [
 

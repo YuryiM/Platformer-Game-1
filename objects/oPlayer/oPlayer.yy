@@ -159,6 +159,20 @@
             "value": "\"\"",
             "varName": "pickupName",
             "varType": 2
+        },
+        {
+            "id": "2fa415b4-0801-4fee-85c2-996a71a94240",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "livess",
+            "varType": 0
         }
     ],
     "solid": false,
